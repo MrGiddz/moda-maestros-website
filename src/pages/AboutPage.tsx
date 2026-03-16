@@ -190,7 +190,7 @@ const AboutPage = () => {
           </motion.div>
 
           {/* Leadership Team */}
-          <motion.div
+          {/* <motion.div
             initial={{ opacity: 0 }}
             whileInView={{ opacity: 1 }}
             viewport={{ once: true }}
@@ -225,7 +225,7 @@ const AboutPage = () => {
                 </motion.div>
               ))}
             </motion.div>
-          </motion.div>
+          </motion.div> */}
 
           {/* CTA */}
           <motion.div
